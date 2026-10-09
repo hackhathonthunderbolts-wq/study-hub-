@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://study-hub-fan.netlify.app/sitemap.xml

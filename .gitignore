@@ -1,0 +1,38 @@
+# ---- dependencies (none required, kept for tooling) ----
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ---- secrets / local env (never commit) ----
+.env
+.env.*
+!.env.example
+*.local
+
+# ---- build & deploy output ----
+dist/
+build/
+.vercel/
+.netlify/
+
+# ---- OS / editor noise ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# ---- archives ----
+*.zip
+*.7z
+*.rar
+
+# ---- logs ----
+*.log
+npm-debug.log*
+
+# ---- stray build snapshot (locked, not editable) ----
+study-hub-vedantu-fan/

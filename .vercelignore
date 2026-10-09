@@ -1,0 +1,9 @@
+# files kept out of the Vercel deployment (they stay in git)
+.git/
+.gitignore
+.vercelignore
+*.zip
+node_modules/
+*.md
+supabase/
+study-hub-vedantu-fan/

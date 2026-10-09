@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Study Hub">
+  <rect width="48" height="48" rx="13" fill="#0b1220"/>
+  <path d="M10 31.5c5.5-3.2 10.4-3.2 14 .2 3.6-3.4 8.5-3.4 14-.2V15.4c-5.5-3.2-10.4-3.2-14 .2-3.6-3.4-8.5-3.4-14-.2Z" fill="#ff7a1a"/>
+  <path d="M24 15.6v16.1" stroke="#0b1220" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="37.5" cy="12" r="5" fill="#ffd166"/>
+  <path d="M37.5 9.6v4.8M35.1 12h4.8" stroke="#0b1220" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
